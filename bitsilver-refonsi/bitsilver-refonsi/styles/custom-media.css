@@ -1,0 +1,173 @@
+
+@media (min-width: 1199px){
+}
+@media (max-width: 1199px){
+	.navbar-default .navbar-nav>li>a{
+		margin:0 3px;
+		padding: 0 3px;
+	}
+	.navbar-default .navbar-nav > li #login{
+		margin-top: 6px;
+		line-height: 30px;
+	}
+	.navbar-default .navbar-nav > li #signup{
+		margin-top: 6px;
+		line-height: 32px;
+	}
+}	
+@media (max-width: 991px){
+	.headerTopLeft .hdMid{
+		margin-left: 20px;
+	}
+	.navbar-default .navbar-nav>li>a{
+		margin:0 3px;
+		padding: 0 3px;
+	}
+	.navbar-default .navbar-nav > li #signup{
+		width: 90px;
+	}
+	.navbar-default .navbar-nav > li #login{
+		width: 90px;
+	}
+	.welcome-left,.welcome-right,.investmenTop,.investmentCen,.investmentBot,.calculatorInner,
+	.benefitsTop,.benefitsPart1,.benefitsPart2,.benefitsPart3,.benefitsPart4,.benefitsPart5,.benefitsPart6,
+	.benefitsPart7,.benefitsPart8,.benefitsPart9,.benefitsPart10,.content-5-levelLeft,.content-5-levelRight,
+	.content-7-levelInner,.videoTestContainer .container > h1,.videoTestContainer .container > p,
+	#videoRow1,.loadMore,.statisticContainer .row,.paymentContainer ul,.myInfo{
+		display: block;
+	}
+	.banner-left{
+		width: 100%;
+	}
+	.ctn-daily-part .ctn-part-right h3{
+		text-align: right;
+	}
+	.ctn-left {
+	    margin-bottom: 30px;
+	}
+	.ctn-footer1{
+		margin-bottom: 20px;
+	}
+	.ctn-footer2 ul{
+		padding-left: 15px;
+	}
+}	
+@media (max-width: 767px){
+	.headerTopContainer{
+		padding: 8px 0;
+	}
+	.headerTopRightInner {
+		float: left;
+		margin-left: -15px;
+	}
+	.headerTopRightInner{
+		padding-top: 5px;
+	}
+	.navbar-default .navbar-nav>li>a{
+		line-height: 45px;
+	}
+	.headerBotContainer #logo{
+		margin-top: 5px;
+		margin-bottom: 5px;
+	}
+	.navbar-default .navbar-nav > li #signup{
+		margin-bottom: 5px;
+	}
+	.navbar-default .navbar-collapse{
+		width: 100%;
+	}
+	.navbar-default .navbar-nav>li>a{
+		width: 100%;
+		border-bottom: 1px solid #393a3a;
+	}
+	.navbar-default .navbar-collapse{
+		float: left;
+	}
+	.navbar-nav{
+		margin: 3px 0;
+	}
+   .contentBotInner h3{
+   		font-size: 40px;
+   }
+   .ctn-footer1{
+   		width: 100%;
+   		text-align: center;
+   }
+   .ctn-footer1 a.ft-logo{
+		background: url(images/logo.png) transparent no-repeat center;
+	}
+	.ctn-footer2{
+		width: 50%;
+	}
+	.ctn-footer3{
+		width: 40%;
+	}
+}
+@media (max-width: 650px){
+	.ctn-footer2{
+		width: 45%;
+	}
+	.ctn-footer3{
+		width: 55%;
+	}
+}
+@media (max-width: 550px){
+	.banner-left h3{
+		font-size: 50px;
+	}
+	.banner-left a{
+		font-size: 20px;
+	}
+	.ctn-footer2{
+		width: 40%;
+	}
+	.ctn-footer3{
+		width: 60%;
+	}
+}
+@media (max-width: 450px){
+	.banner-left h3{
+		font-size: 40px;
+		line-height: 55px;
+	}
+	.banner-left a {
+	    font-size: 15px;
+	}
+	.statistics{
+		padding-left: 110px;
+	}
+	.ctn-statistic1{
+		background: url(images/ctn-ic2.png) #fff no-repeat center left 25px;
+	}
+	.ctn-statistic2{
+		background: url(images/ctn-ic3.png) #fff no-repeat center left 25px;
+		float: right;
+	}
+	.ctn-statistic3{
+		background: url(images/ctn-ic4.png) #fff no-repeat center left 25px;
+	}
+	.ctn-statistic4{
+		background: url(images/ctn-ic5.png) #fff no-repeat center left 25px;
+		float: right;
+	}
+	.ctn-footer2{
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	.ctn-footer3{
+		width: 100%;
+	}
+}
+@media (max-width: 350px) {
+	
+	.ctn-daily-part .ctn-part-right h3{
+		text-align: left;
+	}
+}	
+@media (max-width: 320px) and (min-width: 320px){
+
+
+}
+@media (max-width: 320px){
+	
+}
